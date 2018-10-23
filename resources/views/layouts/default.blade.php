@@ -5,7 +5,7 @@
 
 <body>
 
-
+@include(includes.menu)
 @yield('content')
 
 @include('includes.jsfooter')
